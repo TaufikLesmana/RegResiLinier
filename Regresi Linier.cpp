@@ -1,5 +1,5 @@
-//Taufik Lesmana NK//
-//3411151079//
+//Taufik Lesmana NK & Anton Saputra//
+//3411151079  & 3411151080//
 //SIE B//
 //regresi linier//
 #include <stdio.h>
